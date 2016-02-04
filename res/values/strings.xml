@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Cabbage Worm</string>
+    <string name="privacy_policy">This app does not collect or store any personal\n
+nor private data by itself.\n
+\n
+This app currently stores only in game non-user related status\n
+(such as highest score) and does not pass it on to any 3rd party service.\n
+\n
+This app uses third party libraries, such as\n
+AndEngine and AndEnginePhysicsBox2DExtension.\n
+\n
+The author of this app is not responsible for the behaviour\n
+of those 3rd party libraries in any way.\n
+\n
+The author of this app, Roy Barina, saves himself all the rights\n
+to change this privacy policy in the future.</string>
+
+</resources>
